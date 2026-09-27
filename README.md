@@ -2,7 +2,7 @@
 
 A React application to search GitHub users and explore their public profile, top repositories, and language breakdown — built with the GitHub REST API.
 
-**[Live Demo →](github-profile-finder-gray.vercel.app)**
+**[Live Demo →](https://github-profile-finder-gray.vercel.app/)**
 
 ---
 
